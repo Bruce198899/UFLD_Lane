@@ -1,5 +1,6 @@
 **/__pycache__
-
+/pretrained
+/datasets
 *.pyc
 *.pth
 
